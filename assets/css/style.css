@@ -1,0 +1,16 @@
+body {
+    background-image: url(../images/country.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1, h3, #schedule-head, #form-head {
+    font-family: 'Merriweather', serif;
+}
+th, label {
+    font-family: 'Libre Baskerville', serif;
+}
+#add-train-button {
+    font-family: 'Merriweather', serif;
+}
